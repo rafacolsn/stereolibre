@@ -7,17 +7,17 @@
         <description>
 Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets and Podcasts
         </description>
-        <pubDate>Mon, 29 Apr 2019 07:25:19 +0000</pubDate>
+        <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
         <generator>FetchRSS</generator>
-        <link>http://fetchrss.com/account</link>
-        <atom:link href="http://fetchrss.com/rss/5cc6a5ed8a93f80f6d8b45675cc6a5d68a93f8846c8b4567.xml" rel="self" type="application/rss+xml"/>
+        <link>https://www.mixcloud.com/stereolibre/</link>
+        <atom:link href="http://fetchrss.com/rss/5cc6a5ed8a93f80f6d8b45675cc758328a93f896108b4567.xml" rel="self" type="application/rss+xml"/>
         <image>
-            <link>http://fetchrss.com/account</link>
+            <link>https://www.mixcloud.com/stereolibre/</link>
             <url>
 https://www.google.com/s2/favicons?domain=https://www.mixcloud.com
             </url>
             <title>Stereo Libre | Mixcloud</title>
         </image>
-     
+
     </channel>
 </rss>
