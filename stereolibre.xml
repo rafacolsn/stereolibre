@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:media="https://search.yahoo.com/mrss/" 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="https://search.yahoo.com/mrss/" 
     xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" 
     xmlns:dcterms="https://purl.org/dc/terms/" 
     xmlns:spotify="https://www.spotify.com/ns/rss" 
@@ -33,7 +34,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </itunes:category>
 
         <itunes:complete>yes
-                                                                                                                                    <!-- no -->
+                                                                                                                                                <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
