@@ -1,7 +1,6 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" 
     xmlns:atom="http://www.w3.org/2005/Atom" 
     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-    <link/>
     <channel>
         <title>Stereo Libre | Mixcloud</title>
         <description>
@@ -10,7 +9,6 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
         <generator>FetchRSS</generator>
         <link>https://www.mixcloud.com/stereolibre/</link>
-        <atom:link href="http://fetchrss.com/rss/5cc6a5ed8a93f80f6d8b45675cc758328a93f896108b4567.xml" rel="self" type="application/rss+xml"/>
         <image>
             <link>https://www.mixcloud.com/stereolibre/</link>
             <url>
