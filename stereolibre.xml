@@ -14,7 +14,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         <language>fr</language>
         <itunes:author>Stereo Libre
         </itunes:author>
-        <itunes:image href="https://example.com/sbig-logo.jpg"/>
+        <itunes:image href="src="https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg""/>
         <itunes:explicit>clean
         </itunes:explicit>
         <itunes:category text="Music">
@@ -24,7 +24,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </itunes:category>
 
         <itunes:complete>yes
-                                                <!-- no -->
+                                                            <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
@@ -36,6 +36,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
             <pubDate>1d ago</pubDate>
             <author>stereolibre@equinoxefm.be</author>
             <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</guid>
+            <enclosure url="https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/" type="audio/mpeg" />
         </item>
         <item>
             <title>Stereo Libre 2019 04 21 nouveautes et decouvertes</title>
