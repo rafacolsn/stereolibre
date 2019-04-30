@@ -22,7 +22,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </image>
         <itunes:explicit>clean
         </itunes:explicit>
-        <itunes:category text="Music">
+        <itunes:category text="Media">
             <itunes:category text="Pop" />
             <itunes:category text="Rock" />
             <itunes:category text="World" />
@@ -39,7 +39,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
             <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</link>
             <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
             <pubDate>1d ago</pubDate>
-            <author>stereolibre@equinoxefm.be</author>
+            <managingEditor>stereolibre@equinoxefm.be (Stéréo Libre)</managingEditor>
             <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</guid>
             <enclosure url="https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/" type="audio/mpeg" />
         </item>
