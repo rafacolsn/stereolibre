@@ -10,12 +10,11 @@
 Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets and Podcasts
         </description>
         <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
-        <generator>FetchRSS</generator>
         <link>https://www.mixcloud.com/stereolibre/</link>
         <language>fr</language>
-        <itunes:author>Stéréo Libre
+        <itunes:author>Stereo Libre
         </itunes:author>
-        <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg"/>
+        <itunes:image href="https://example.com/sbig-logo.jpg"/>
         <itunes:explicit>clean
         </itunes:explicit>
         <itunes:category text="Music">
@@ -25,7 +24,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </itunes:category>
 
         <itunes:complete>yes
-                                    <!-- no -->
+                                                <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
