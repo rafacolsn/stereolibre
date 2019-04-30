@@ -16,7 +16,6 @@ for key, value in datas.items():
     link = ET.SubElement(item, 'link')
     descr = ET.SubElement(item, 'description')
     date = ET.SubElement(item, 'pubDate')
-    creator = ET.SubElement(item, 'dc:creator')
     author = ET.SubElement(item, 'author')
     guid = ET.SubElement(item, 'guid')
 
@@ -24,7 +23,6 @@ for key, value in datas.items():
     link.text = domain + value[0]
     descr.text = "STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance."
     date.text = value[1][1]
-    creator.text = "Stéréo Libre"
     author.text = "stereolibre@equinoxefm.be"
     guid.text = domain + value[0]
 
