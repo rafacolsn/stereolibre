@@ -4,7 +4,6 @@
     xmlns:dcterms="https://purl.org/dc/terms/" 
     xmlns:spotify="https://www.spotify.com/ns/rss" 
     xmlns:psc="https://podlove.org/simple-chapters/" version="2.0">
-    <link />
     <channel>
         <title>Stereo Libre</title>
         <description>
@@ -13,14 +12,24 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
         <generator>FetchRSS</generator>
         <link>https://www.mixcloud.com/stereolibre/</link>
-        <image>
-            <link>https://www.mixcloud.com/stereolibre/</link>
-            <url>
-https://www.google.com/s2/favicons?domain=https://www.mixcloud.com
-            </url>
-            <title>Stereo Libre | Mixcloud</title>
-        </image>
+        <language>fr</language>
+        <itunes:author>Stéréo Libre
+        </itunes:author>
+        <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg"/>
+        <itunes:explicit>clean
+        </itunes:explicit>
+        <itunes:category text="Music">
+            <itunes:category text="Pop" />
+            <itunes:category text="Rock" />
+            <itunes:category text="World" />
+        </itunes:category>
 
+        <itunes:complete>yes
+                                    <!-- no -->
+        </itunes:complete>
+
+        <spotify:countryOfOrigin>be
+        </spotify:countryOfOrigin>
         <item>
             <title>Stereo Libre 2019 04 28 Leonard de Vinci et les inventeurs</title>
             <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</link>
