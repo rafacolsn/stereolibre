@@ -13,7 +13,11 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         <link>https://www.mixcloud.com/stereolibre/</link>
         <language>fr</language>
         <author>stereolibre@equinoxefm.be</author>
-        <image href="https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg"/>
+        <image>
+            <url>https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg</url>
+            <title>Stereo Libre</title>
+            <link>https://www.mixcloud.com/stereolibre/</link>
+        </image>
         <itunes:explicit>clean
         </itunes:explicit>
         <itunes:category text="Music">
@@ -23,7 +27,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </itunes:category>
 
         <itunes:complete>yes
-                                                                        <!-- no -->
+                                                                                    <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
