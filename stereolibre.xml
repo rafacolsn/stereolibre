@@ -13,9 +13,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         <link>https://www.mixcloud.com/stereolibre/</link>
         <language>fr</language>
         <author>stereolibre@equinoxefm.be</author>
-        <itunes:author>
-Stéréo Libre - Equinoxe FM
-</itunes:author>
+        <itunes:author>stereolibre@equinoxefm.be</itunes:author>
         <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg"/>
         <itunes:explicit>clean
         </itunes:explicit>
@@ -26,7 +24,7 @@ Stéréo Libre - Equinoxe FM
         </itunes:category>
 
         <itunes:complete>yes
-                                                            <!-- no -->
+                                                                        <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
