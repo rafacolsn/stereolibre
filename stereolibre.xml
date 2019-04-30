@@ -13,6 +13,8 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </description>
         <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
         <link>https://www.mixcloud.com/stereolibre/</link>
+        <itunes:author>Stéréo Libre
+        </itunes:author>
         <atom:link href="https://rafacolsn.github.io/stereolibre/stereolibre.xml" rel="self" type="application/rss+xml" />
 
         <language>fr</language>
@@ -34,7 +36,7 @@ Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets a
         </itunes:category>
 
         <itunes:complete>yes
-                                                                                                                                                <!-- no -->
+                                                                                                                                                                        <!-- no -->
         </itunes:complete>
 
         <spotify:countryOfOrigin>be
