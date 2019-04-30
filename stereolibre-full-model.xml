@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="https://search.yahoo.com/mrss/" 
+    xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:dcterms="https://purl.org/dc/terms/" 
+    xmlns:spotify="https://www.spotify.com/ns/rss" 
+    xmlns:psc="https://podlove.org/simple-chapters/" version="2.0">
+
+    <channel>
+        <title>Stereo Libre</title>
+        <description>
+Stereo Libre is on Mixcloud. Listen for free to their radio shows, DJ mix sets and Podcasts
+        </description>
+        <pubDate>Mon, 29 Apr 2019 20:01:57 +0000</pubDate>
+        <link>https://www.mixcloud.com/stereolibre/</link>
+        <itunes:author>Stéréo Libre
+        </itunes:author>
+        <atom:link href="https://rafacolsn.github.io/stereolibre/stereolibre.xml" rel="self" type="application/rss+xml" />
+
+        <language>fr</language>
+        <generator>Raphaël Colson</generator>
+        <copyright>Stéréo Libre 2019</copyright>
+        <managingEditor>stereolibre@equinoxefm.be (Stéréo Libre)</managingEditor>
+
+        <image>
+            <url>https://thumbnailer.mixcloud.com/unsafe/160x160/profile/4/c/d/d/37d6-37c1-4732-aefd-e090e38a015a.jpg</url>
+            <title>Stereo Libre</title>
+            <link>https://www.mixcloud.com/stereolibre/</link>
+        </image>
+        <itunes:explicit>clean
+        </itunes:explicit>
+        <itunes:category text="Media">
+            <itunes:category text="Pop" />
+            <itunes:category text="Rock" />
+            <itunes:category text="World" />
+        </itunes:category>
+
+        <itunes:complete>yes
+                                                                                                                                                                        <!-- no -->
+        </itunes:complete>
+
+        <spotify:countryOfOrigin>be
+        </spotify:countryOfOrigin>
+        <item>
+            <title>Stereo Libre 2019 04 28 Leonard de Vinci et les inventeurs</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1d ago</pubDate>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/</guid>
+            <enclosure url="https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-28-leonard-de-vinci-et-les-inventeurs/" type="audio/mpeg" />
+        </item>
+        <item>
+            <title>Stereo Libre 2019 04 21 nouveautes et decouvertes</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-21-nouveautes-et-decouvertes/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1w ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-21-nouveautes-et-decouvertes/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 04 14 Nouvelle Orlean</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-14-nouvelle-orlean/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>2w ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-04-14-nouvelle-orlean/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 03 31 Guerre et paix (80 ans fin guerre civile d&amp;aposespagne)</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-31-guerre-et-paix-80-ans-fin-guerre-civile-despagne/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>4w ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-31-guerre-et-paix-80-ans-fin-guerre-civile-despagne/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 03 24 reprises</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-24-reprises/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-24-reprises/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 03 17 Cinema culte</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-17-cinema-culte/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-17-cinema-culte/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 03 10 Barcelona</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-10-barcelona/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-10-barcelona/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 03 03 One Hit Wonder USA</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-03-one-hit-wonder-usa/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>1mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-03-03-one-hit-wonder-usa/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 02 24 Nouveautes</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-02-24-nouveautes/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>2mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-02-24-nouveautes/</guid>
+        </item>
+        <item>
+            <title>Stereo Libre 2019 02 17 Random</title>
+            <link>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-02-17-random/</link>
+            <description>STEREO LIBRE propose un mélange de 2 playlists confectionnées par 2 animateurs découvrant mutuellement la playlist de l’autre à chaque nouvelle émission. Le tout articulé autour d’un thème décidé à l’avance.</description>
+            <pubDate>2mo ago</pubDate>
+            <author>stereolibre@equinoxefm.be</author>
+            <guid>https://www.mixcloud.com/StereoLibre/stereo-libre-2019-02-17-random/</guid>
+        </item>
+    </channel>
+</rss>
