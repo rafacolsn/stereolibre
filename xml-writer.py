@@ -26,4 +26,4 @@ for key, value in datas.items():
     author.text = "stereolibre@equinoxefm.be"
     guid.text = domain + value[0]
 
-tree.write("stereolibre.xml", 'UTF-8')
+tree.write("stereolibre.xml", 'UTF-8', True )
